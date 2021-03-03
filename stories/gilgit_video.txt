@@ -1,0 +1,79 @@
+"Gentle Welcome 600"
+it is narrator @(0,0,7,0,0,0,75,50,50) #1-#47 "Hello"
+teenager greets #3-#47 @(0,-5,0,0,0,0,1,1,1)
+teenager says "Welcome to our video showcasing the beautiful and friendly cultures of India" #47-#207 @(0,-5,0,0,0,0,1,1,1)
+teenager says "This is the first part of our series" "and the people wewill discuss today are the Balti people" #207-#327 @(0,-5,0,0,0,0,1,1,1)
+teenager says "Welcome to Balti land of  Union territory of Ladakh" #321-#480 @(0,-5,0,0,0,0,1,1,1)
+it is Outsideview @(0,0,10,0,60,0,1,1,1)-@(0,-10,10,0,0,0,65,45,45) #481-#580 "First one cool screensaver of the region" "to let you know the beauty you are about to witness"
+it is Outsideview @(0,-10,10,0,0,0,65,45,45) #581-#600
+
+"Geography and History 510"
+teenager says #1-#150 "Hi, lets find it on the map"
+it is Route @(0,0,10,0,0,0,65,45,45) #30-#150 "Located some 24 hours away from Delhi, it is located in the Kargil district of Union territory of Ladakh. It is the northmost district of India"
+SUV moves derivatively @f(Y_del2kargil) #45-#150
+it is SUV #30-#46 @(-27,0,-17,0,0,0,6,4,4)-@(7,0,-17,0,0,0,6,4,4)
+it is SUV #151 @(100,0,100,0,0,0,6,4,4)
+it is oldempire "It might be hard to believe, but the area has been inhabited since Neolithic times (12000 to 6000 BCE)." #151-#300 "From 1460 to 1840, it was ruled by Namgyal kingdom" @(0,0,10,0,0,0,65,45,45)
+it is Kingslist #301-#390 @(0,-20,-30,0,0,0,65,45,45)-@(0,-20,60,0,0,0,65,45,45)
+it is Route @(0,0,10,0,0,0,65,45,45) #301 @(100,0,100,0,0,0,1,1,1)
+it is oldempire #301-#510 @(0,0,10,0,0,0,65,45,45)-@(0,30,30,0,0,0,65,45,45)
+teenager says #301-#360 "Afterwards, it was conquered by the Sikhs, the British and became a princely state (A vassal state, that has a mutual obligation to a superior state or empire, similar to that of a vassal in the feudal system in medieval Europe)"
+teenager says #361-#420 "in 1947, the Dogra ruler Maharaja Hari Singh signed the Instrument of Accession to India. Pakistani raiders from Gilgit had reached Ladakh and military operations were initiated to evict them"
+teenager says #421-#510 "Finally, in 1971 this area got the freedom from Pakistani invaders, and to this day, is proudlly part of Ladakh"
+
+"Beauty and all 360"
+it is nature1 #1-#45 @(60,0,10,0,0,0,65,45,45)-@(0,0,10,0,0,0,65,45,45) "Humbly speaking, this is the most beautiful place on earth"
+it is nature1 #60-#75 @(0,0,10,0,0,0,65,45,45)-@(-60,1,10,0,0,0,65,45,45)
+it is nature2 #61-#105 @(0,0,60,0,60,0,65,45,45)-@(0,0,10,0,0,0,65,45,45) "I mean, it is just a fact, nothing to be shy about or to brag about"
+it is nature2 #120-#135 @(0,0,10,0,0,0,65,45,45)-@(0,1,-50,0,0,0,65,45,45)
+it is nature3 #121-#165 @(-60,0,10,0,60,0,65,45,45)-@(0,0,10,0,0,0,65,45,45) "you see what here is considered quite standard terrain as per locals"
+it is nature3 #181-#195 @(0,0,10,0,0,0,65,45,45)-@(60,1,10,0,0,0,65,45,45)
+it is Nature4 #181-#225 @(0,0,-50,0,60,0,65,45,45)-@(0,0,10,0,0,0,65,45,45) "being ever surpassed upon by the more you tour!"
+teenager says #245-#365 "So in summary, beautiful place, beautiul people" "time of visit: Summer, icy conditions apply! Come quickly, as Oxygen might be limited hehe"
+
+"How we live 1050"
+it is Nubrafarms #1-#890 "yeh hamari farming hai" @(0,0,7,0,0,0,65,45,45)
+it is narrator #30-#120 "This area is considered Cold Arid Region, with elevation of around 9000 feets"
+it is narrator #121-#240 "We get around 330ml rainfall yearly and no Monsoon"
+it is narrator #241-#390 "On a total, 100 sq. km. area is used for agiculture, though out of this, due to weather, only a fraction of it could be used thoughout the year"
+it is narrator #391-#540 "Major crops here are barley and wheat and also millets and pulses to some extent. Apricot is the major fruit of the region, followed by apple and walnut."
+it is narrator #541-#660 "Sheeps, goats and yaks have been living with us and sustaining here with us as family since time immortal"
+it is narrator #661-#780 "Obviously, most of our taste revolves around dishes made from these items"
+it is farms #891-#940 "yeh hamari fasal hai" @(-10,-2,10,0,0,-15,75,50,50)
+it is kitchen #941-#990 "yeh hamari kitchen hai" @(0,-4,0,0,0,0,75,50,50)
+it is daawat #991-#1050 "aur yeh hamara daawat ho rahi hai" @(0,-6,10,0,0,0,65,45,45)-@(0,-6,10,0,0,0,90,60,60)
+
+"Nature caers for us 900"
+it is narrator #1-#60 @(0,0,0,0,0,0,90,60,60) "You know technically, just like Antarctica, this whole region is a __desert__?"
+it is narrator @(0,0,0,0,0,0,90,60,60) #61-#180 "So, we had to improvise to fulfill our needs of water, which become quite severe during summer time" "and we do it with a technique called ice grafting"
+it is narrator @(0,0,0,0,0,0,90,60,60) #181-#240 "The planning for it starts during winter start time before we get our snow"
+it is narrator @(0,2,0,0,0,0,90,60,60) #241-#541 "During winter we get lot of snow, which is what we need to save" "we look for designated places where it could be stored for better downflow later"
+it is Snowflake1 @(0,0,40,0,0,0,6,4,4)-@(0,0,-10,0,0,0,6,4,4) #241-#301
+it is Snowflake2 @(-3,0,40,0,0,0,6,4,4)-@(-3,0,-10,0,0,0,6,4,4) #253-#313
+it is Snowflake4 @(3,0,40,0,0,0,6,4,4)-@(3,0,-10,0,0,0,6,4,4) #265-#325
+it is Snowflake5 @(6,0,40,0,0,0,6,4,4)-@(6,0,-10,0,0,0,6,4,4) #277-#337
+it is Snowflake6 @(-6,0,40,0,0,0,6,4,4)-@(-6,0,-10,0,0,0,6,4,4) #289-#349
+it is Snowflake7 @(9,0,40,0,0,0,6,4,4)-@(9,0,-10,0,0,0,6,4,4) #301-#361
+it is Snowflake8 @(-9,0,40,0,0,0,6,4,4)-@(-9,0,-10,0,0,0,6,4,4) #313-#373
+it is Snowflake9 @(0,0,40,0,0,0,6,4,4)-@(0,0,-7,0,0,0,6,4,4) #325-#385
+it is Snowflake10 @(-3,0,40,0,0,0,6,4,4)-@(-3,0,-7,0,0,0,6,4,4) #337-#397
+it is Snowflake11 @(3,0,40,0,0,0,6,4,4)-@(3,0,-7,0,0,0,6,4,4) #349-#409
+it is Snowflake12 @(6,0,40,0,0,0,6,4,4)-@(6,0,-7,0,0,0,6,4,4) #361-#421
+it is Snowflake13 @(-6,0,40,0,0,0,6,4,4)-@(-6,0,-7,0,0,0,6,4,4) #373-#433
+it is Snowflake14 @(0,0,40,0,0,0,6,4,4)-@(0,0,-4,0,0,0,6,4,4) #385-#445
+it is Snowflake15 @(-3,0,40,0,0,0,6,4,4)-@(-3,0,-4,0,0,0,6,4,4) #397-#467
+it is Snowflake16 @(3,0,40,0,0,0,6,4,4)-@(3,0,-4,0,0,0,6,4,4) #409-#473
+it is birdnet @(0,0,15,0,75,0,65,45,45) #480-#540 "it could be a shaded area or covered during pre summer time"
+it is birdnet @(0,0,10,90,0,0,65,45,45) #541
+it is sun @(20,0,24,0,0,0,15,10,10) #541-#600 "and when the sun shines, the snow melts and we have water"
+it is Flowdown @(0,10,-12,0,-30,0,32,16,16)-@(0,-10,-19,0,-45,0,32,16,16) #570-#690
+it is Flowdown @(0,10,-12,90,0,0,32,16,16) #691
+it is icestupa #691-#810 @(0,-2,0,0,0,0,90,60,60) "Recently, Mr Norphel Sonam Wangchuk came up with the idea of Ice Stupa by freezing the stream water vertically in the form of huge ice towers or cones of 30 to 50m"
+it is icestupa #811-#900 @(0,-2,0,0,0,0,90,60,60) "As this needs less cost and maintenance, this is expected to be game changer in the livs of Ladakh and Balti people"
+
+"Credits"
+it is narrator @(0,0,2,0,0,0,75,50,50) #1-#47 "Hello"
+teenager greets #3-#45
+teenager says #46-#105 "We thanks Mr. Ahmad Shah Balti for his time and help for learning on the Balti culture and life.'
+teenager says #106-#154 "Thanks for watching this small video on he Balti people of India"
+teenager says #155-#225 "If you have some other information and wish to add to this, kindly help yourself at https://github.com/man-of-panda3d/Balti_video_memeer, or drop us a comment here"
